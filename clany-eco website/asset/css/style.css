@@ -1,0 +1,27 @@
+*{
+
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+:root{
+
+
+--primary-color: #ffffff ;
+--second-color: #F4F6F0;
+--ternary-color:#3CA200; 
+--small-section-color:#EAED99;
+ font-family: 'Parkinsans';
+ --font-color: #000000; 
+ --fs: 20px ;
+ --fw: 200px;
+}
+
+body{
+
+    background-color: var(--primary-color);
+    color: var(--font-color);
+    font-size: var(--fs);
+    font-weight: var(--fw);
+
+}
